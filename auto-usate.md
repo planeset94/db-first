@@ -1,4 +1,4 @@
-#Database Auto usate
+## table name: Auto usate
 
 - id                    BIGINT PRIMARY KEY UNIQUE AUTO_INCREMENT  NOTNULL 
 - modello               VARCHAR(50)  NOTNULL    
